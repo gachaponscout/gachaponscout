@@ -1,4 +1,4 @@
-<p align="center"><img src="https://komarev.com/ghpvc/?username=gachaponscout&color=aebefb&label=𐔌 kaplonk !" alt="Centered Image"> <br></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=gachaponscout&color=aebefb&label=𐔌 kaplonk !)" alt="Centered Image"> <br></p>
 
  
 
